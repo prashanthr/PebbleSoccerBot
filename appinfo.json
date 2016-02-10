@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Prashanth R",
+    "enableMultiJS": false,
+    "longName": "SOCCERBOT",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "SOCCERBOT",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "08806b1b-c647-4846-aeab-e1731a514180",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
